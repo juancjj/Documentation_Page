@@ -63,3 +63,10 @@ nav ul {
     font-size: 25px;
     color: black;
 }
+
+code{
+    margin: 20px;
+    padding: 10px;
+    background-color: #f7f7f7;
+    font-size: 12px;
+}
