@@ -47,3 +47,19 @@ nav ul {
     color: blanchedalmond;
     font-weight: bold;
 }
+
+#main-doc{
+    padding: 20px 20px 20px 290px;
+    text-align: left;
+}
+
+.main-section{
+    margin: 30px;
+    font-size: 18px;
+    color: #4d4e53;
+}
+
+.main-section header{
+    font-size: 25px;
+    color: black;
+}
